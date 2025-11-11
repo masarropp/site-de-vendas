@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #8b4513;
+  background-color: #ac5f28;
   color: white;
   padding: 15px;
   display: flex;
@@ -40,7 +40,7 @@ header nav ul li a {
 }
 
 .banner {
-  background-color: #c57712;
+  background-color: #ddaf74;
   text-align: center;
   padding: 50px 0;
 }
