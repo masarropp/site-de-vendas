@@ -63,7 +63,7 @@ header nav ul li a {
 
 .produtos {
   padding: 50px 20px;
-  background-color: #382104;
+  background-color: #a86615;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ header nav ul li a {
 
 .produto button {
   background-color: #aa6330;
-  color: rgb(141, 132, 84);
+  color: rgb(0, 0, 0);
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -133,7 +133,7 @@ header nav ul li a {
 
 .contato form button {
   background-color: #8b4513;
-  color: rgb(134, 105, 18);
+  color: rgb(173, 148, 63);
   border: none;
   padding: 10px 20px;
   border-radius: 5px;
@@ -141,7 +141,7 @@ header nav ul li a {
 }
 
 footer {
-  background-color: #8b4513;
+  background-color: #d47632;
   color: rgb(189, 117, 23);
   text-align: center;
   padding: 15px;
